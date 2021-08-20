@@ -6,7 +6,7 @@
 	<li>Project Creation and Dapper and FluentMigrator Installation</li>
 	<li>Using Dapper and FluentMigration to Create a Database Migration</li>
 	<li>Adding Tables to the Database Using FluentMigrator</li>
-	<li><a href="#seeding-data">Seeding Data with FluentMigrator</li>
+	<li>Seeding Data with FluentMigrator</li>
 	<li>Reverting Migrations</li>
 	<li>Conclusion</li>
 </ul>
